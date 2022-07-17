@@ -24,6 +24,23 @@ text-decoration: none;}
 }
 .accent{color:#2196F3;}
 
+/*Stydio aktive*/
+.aktive-page1{
+    color: var(--accent-color);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;}
+
+/*Portfolio aktive*/
+.aktive-page2{
+    color: var(--accent-color);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;}
+
+
 /*site-nav*/
 .site-nav .link{
     color: var(--primary-text-color) font-weight: 500;
@@ -132,6 +149,18 @@ background-color: #2F303A;}
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;}
+
+.contacts-footer .link{
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+.contacts-footer .link:hover,
+.contacts-footer .link:focus {
+    color: var(--accent-color)
+}
 
 
 /*Button*/
