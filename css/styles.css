@@ -190,3 +190,8 @@ background-color: #2F303A;}
     background-color: var(--accent-color);
 }
 .cursor{cursor: pointer;}
+
+.button-aktive{
+    color: var(--primary-white-color);
+    background-color: 
+    var(--accent-color);}
