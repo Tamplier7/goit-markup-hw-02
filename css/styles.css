@@ -159,7 +159,9 @@ background-color: #2F303A;}
     color: var(--primary-white-color);
     font-size: 14px;
     line-height: 1.71;
-    letter-spacing: 0.03em;}
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    font-style: normal;}
 
 .contacts-footer .link{
     text-decoration: none;
